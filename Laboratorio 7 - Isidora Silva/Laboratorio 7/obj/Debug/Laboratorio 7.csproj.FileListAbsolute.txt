@@ -1,0 +1,7 @@
+C:\Users\ING\Desktop\github-account-Isisilva\Laboratorio 7\Laboratorio 7\bin\Debug\Laboratorio 7.exe.config
+C:\Users\ING\Desktop\github-account-Isisilva\Laboratorio 7\Laboratorio 7\bin\Debug\Laboratorio 7.exe
+C:\Users\ING\Desktop\github-account-Isisilva\Laboratorio 7\Laboratorio 7\bin\Debug\Laboratorio 7.pdb
+C:\Users\ING\Desktop\github-account-Isisilva\Laboratorio 7\Laboratorio 7\obj\Debug\Laboratorio 7.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\github-account-Isisilva\Laboratorio 7\Laboratorio 7\obj\Debug\Laboratorio 7.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\github-account-Isisilva\Laboratorio 7\Laboratorio 7\obj\Debug\Laboratorio 7.exe
+C:\Users\ING\Desktop\github-account-Isisilva\Laboratorio 7\Laboratorio 7\obj\Debug\Laboratorio 7.pdb
